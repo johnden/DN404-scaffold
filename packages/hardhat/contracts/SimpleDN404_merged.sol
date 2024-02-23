@@ -1488,7 +1488,6 @@ abstract contract DN404 {
     }
 }
 
-// SPDX-License-Identifier: MIT
 /// @title DN404Mirror
 /// @notice DN404Mirror provides an interface for interacting with the
 /// NFT tokens in a DN404 implementation.
@@ -3843,7 +3842,6 @@ library SafeTransferLib {
     }
 }
 
-// SPDX-License-Identifier: MIT
 /**
  * @title SimpleDN404
  * @notice Sample DN404 contract that demonstrates the owner selling fungible tokens.
